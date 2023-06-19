@@ -240,7 +240,7 @@ local function getClosestPlayer()
 end
 
 -- ui creating & handling
-local Library = loadstring(game:HttpGet("https://gist.githubusercontent.com/oieweoewo/06884cdb07e632933cfcb25b812d4912/raw/edb6f53370199760dd5429d0a11e2c8795762943/TESTSSS"))()
+local Library = loadstring(game:HttpGet("https://pastebin.com/raw/EZin9pBj"))()
 Library:SetWatermark("ard 31 cekiyor!!!")
 
 local Window = Library:CreateWindow("ar_reis benmert")
